@@ -1,0 +1,16 @@
+------ Build started: Project: Pott_Week2, Configuration: Debug .NET ------
+
+Preparing resources...
+Updating references...
+Performing main compilation...
+
+The project is up-to-date.
+Building satellite assemblies...
+
+
+
+---------------------- Done ----------------------
+
+    Build: 1 succeeded, 0 failed, 0 skipped
+
+
